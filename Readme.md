@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Shrikant Dwivedi, working as a Full Stack Web Developer from India and currently an web intern in [@Paathsala.world](https://paathshala.world/) ,Student of [@Dr. Harisingh A Central Gour University, Sagar](http://www.dhsgsu.ac.in/).
+Hi, I'm Shrikant Dwivedi, working as a Director from India and currently an CEO in [Softseekers Infotech Pvt. Ltd](https://softseekersinfotech.com/) ,Student of [@Dr. Harisingh A Central Gour University, Sagar](http://www.dhsgsu.ac.in/).
 
 
 
